@@ -6,10 +6,10 @@ zerops:
         - pnpm i
         - pnpm build
       deployFiles:
-        - public
-        - dist
+        - dist/~
     run:
       base: static
+
 
   # you can ignore this, it's used
   # for a version of recipe with
