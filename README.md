@@ -1,6 +1,6 @@
 # Zerops x React - Static
 
-React is a javascript web library for building fast , dynamic full-stack web apps with both server-side rendering and static site generation.<a href="https://zerops.io/" target="_blank">Zerops</a> makes deploying and running React apps, both server side rendered and static, a breeze.
+React is a javascript web library for building fast , dynamic full-stack web apps with both server-side rendering and static site generation. <a href="https://zerops.io/" target="_blank">Zerops</a> makes deploying and running React apps, both server side rendered and static, a breeze.
 
 This recipe showcases the SSG version, see [zeropsio/recipe-react-nodejs](https://github.com/zeropsio/recipe-nextjs-static) for the SSR Node.js version.
 
