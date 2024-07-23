@@ -26,7 +26,7 @@ function App() {
                             </h2>
                         </div>
                         <p className="max-w-[800px] mx-auto text-2xl font-medium">
-                            React example running on Zerops' Node.js service.
+                            React example running on Zerops' Static service.
                             <br />
                             Deploy and test yourself with a single click!
                         </p>
